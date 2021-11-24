@@ -1,7 +1,4 @@
 # GITLAB-CI-COMMANDS
-,
-
-
 mvn_sonar_merge_request:
   stage: check
   allow_failure: false
